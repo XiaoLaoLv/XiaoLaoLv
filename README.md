@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[Reading Speed Test](https://lumenread.net/)
+
+[Cursive Text Generator](https://cursive-text-generator.app/)
+
 <!--
 **XiaoLaoLv/XiaoLaoLv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
